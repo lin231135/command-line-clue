@@ -1,0 +1,5 @@
+Investigation Update:
+
+Local gossip suggests something unusual in the market.
+
+Hint: To reach this location, you'll need to move back and down to the next location: 'cd "../market"'
