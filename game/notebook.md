@@ -19,6 +19,11 @@ Pista 2: Llendo a la *Cafeteria* encontré otra pista que decia:
 	 "Los chismes locales dicen que algo inusual ocurre en el mercado"
 Pista 3: En el *Mercado* encontré otra pista que decia:
 	 "Ve a la Cocina de la Escuela"
+Conclusión Final: En la *Cocina* de la *Escuela* encontré la pista final que decia:
+	 "¡Por fin! Esta escena del crimen intacta revela la verdad. Nadie ha estado aquí desde el incidente.
+	  Tu cuidadoso trabajo de detective ha dado sus frutos. El estado vacío de esta habitación coincide
+	  con los relatos de los testigos: no había nadie cuando ocurrió el crimen. Esto debe ser
+	  ¡donde el asesino llevó a cabo su plan!"
 
 ## Objetos y Personas
 
